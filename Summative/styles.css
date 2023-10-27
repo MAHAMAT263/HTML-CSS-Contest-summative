@@ -1,0 +1,78 @@
+h1 { 
+    background-color: rgb(83, 83, 255);
+    text-align: center;
+    padding: 24p;
+    margin-top: 0%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index:1;}
+h1 {
+    border: 8px solid rgb(133, 147, 218);
+    color: white;
+    display: inline-block;
+}
+
+.gradu img{
+    margin: 0%;
+    padding-top:0%;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+nav .ul{ 
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+nav ul{ border:7px rgb(233, 227, 227) solid;
+    margin-top: 5px;
+    width: 20px;
+    font-size: 15px;
+    padding: 35px;px;
+}
+
+div { 
+    white-space:nowrap;
+
+}
+div li{ border:3px rgb(133, 147, 218) solid;
+    background-color: rgb(133, 147, 218);
+    background-size: cover;
+    width: 300px;
+    display: inline-block;
+    }   
+div li img{ margin: 0%;
+    padding: top 0;;
+    background-size: ;
+    width: 200px;
+    height: 35vh;
+}
+form img{  
+    margin: 0%;
+    padding: top 0;;
+    background-size: ;
+    width: 200px;
+    height: 35vh;
+
+}
+
+section form.about{ border:10px rgb(237, 227, 227) solid;;
+}
+
+
+section .label{
+    border:10px rgb(133, 147, 218) solid;
+    background-color: rgb(83, 83, 255) ;
+    color: white;
+}
+footer{ background-color: rgb(83, 83, 255);
+    padding:0; 
+    margin: 0;
+    border: 7px rgb(133, 147, 218);
+    color: white;
+    width: 100%;
+}
